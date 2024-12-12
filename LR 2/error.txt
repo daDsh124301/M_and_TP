@@ -1,7 +1,6 @@
-Traceback (most recent call last):
-  File "/home/ubuntu/Desktop/lr-2/./LR2.py", line 36, in <module>
-    names()
-  File "/home/ubuntu/Desktop/lr-2/./LR2.py", line 23, in names
-    if not name[0].isupper():
-           ~~~~^^^
-IndexError: string index out of range
+Error: Name 'lena' needs to start in uppercase!
+Error: Name 'sonya' needs to start in uppercase!
+Error: Name 'vika' needs to start in uppercase!
+Error: Name 'vera' needs to start in uppercase!
+Error: Name 'lubov' needs to start in uppercase!
+Error: Name 'Dim@' contains invalid characters!
